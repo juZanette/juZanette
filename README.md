@@ -4,4 +4,4 @@
 
 🖥️ Cursando **Ciência da Computação** na **Universidade do Vale dos Sinos**
 
-🛗 Trabalhando **Vega Style Italia**, com foco em instalação e programação de produtos eletrônicos para elevadores
+🛗 Trabalhando **Vega Style Italia**, com foco no atendimento ao cliente sobre instalação e configuração de produtos eletrônicos para elevadores
